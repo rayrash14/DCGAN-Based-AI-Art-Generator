@@ -33,5 +33,5 @@ The code includes a section to visualize images generated during the training pr
 The model generates artwork images based on the training data. The quality of the generated images improves as the number of training epochs increases. The results can be found in the /content/generated_samples directory.
 
 ### References
-- Kaggle: Best Artworks of All Time
-- DCGAN Paper
+- [Kaggle: Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
+- [DCGAN Paper](https://arxiv.org/abs/1511.06434)
